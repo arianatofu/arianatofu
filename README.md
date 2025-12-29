@@ -1,3 +1,5 @@
+<img src="ari.png" align="right" width="150" style="margin-left: 20px;">
+
 **💖౨ৎ ˖ ࣪⊹🦢⊹₊ ⋆୨ৎ💖**
 ### hi i'm **ariana monique taylor** ♡
 i'm a b.s. physics grad from the **university of texas at san antonio** interested <br>
