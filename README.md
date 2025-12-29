@@ -1,7 +1,7 @@
 <img src="ari.png" align="right" width="150" style="margin-left: 20px;">
 
 **💖౨ৎ ˖ ࣪⊹🦢⊹₊ ⋆୨ৎ💖**
-### hi i'm **ariana monique taylor** ♡
+### hello i'm **ariana monique taylor** ♡
 i'm a b.s. physics grad from the **university of texas at san antonio** interested <br>
 in anything to do with electronics. i'm also a hobbyist dev who loves building <br>
 **super duper cute** web experiences ♡ <br>
