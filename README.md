@@ -3,7 +3,7 @@
 
 **💖౨ৎ ˖ ࣪⊹🦢⊹₊ ⋆୨ৎ💖**
 ### hello i'm **ariana taylor** ♡
-i'm a b.s. physics grad from the **university of texas at san antonio** interested <br>
+i'm a physics and nanoengineering grad from the **university of texas at san antonio** interested <br>
 in anything to do with electronics. i'm also a hobbyist dev who loves building <br>
 **super duper cute** web experiences ♡ <br>
 
