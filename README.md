@@ -8,7 +8,7 @@ in anything to do with electronics. i'm also a hobbyist dev who loves building <
 **super duper cute** web experiences ♡ <br>
 
 🐩 **current projects:** sonny angel tracker, girly electronics lab, digital quantum nb <br>
-💖 **hardware:** pynq-z2 fpga dev board
+💖 **hardware:** pynq-z2 fpga dev board <br>
 🧋**learning:** react native, databases <br>
 🎀 **style:** minimalism, blushes and neutrals, french-girl core <br>
 
