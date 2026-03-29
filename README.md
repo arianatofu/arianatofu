@@ -3,9 +3,10 @@
 
 **💖౨ৎ ˖ ࣪⊹🦢⊹₊ ⋆୨ৎ💖**
 ### hello i'm **ariana taylor** ♡
-i'm a physics and nanoengineering grad from the **university of texas at san antonio** interested <br>
-in anything to do with electronics. i'm also a hobbyist dev who loves building <br>
-**super duper cute** web experiences ♡ <br>
+i'm a physics and nanoengineering grad from the <br>
+**university of texas at san antonio** interested in <br>
+anything to do with electronics. i'm also a hobbyist <br>
+dev who loves building **super duper cute** web experiences ♡ <br>
 
 🐩 **current projects:** sonny angel tracker, girly electronics lab, digital quantum nb <br>
 💖 **hardware:** pynq-z2 fpga dev board <br>
