@@ -2,9 +2,8 @@
 <img src="ari.png" align="right" width="225" style="margin-left: 20px;">
 
 **💖౨ৎ ˖ ࣪⊹🦢⊹₊ ⋆୨ৎ💖**
-### hello i'm **ariana taylor** ♡
-i'm a physics and nanoengineering grad from the <br>
-**university of texas at san antonio** interested in <br>
+### hello i'm **ariana** ♡
+i'm a physics and nanoengineering grad interested in <br>
 anything to do with electronics. i'm also a hobbyist <br>
 dev who loves building **super duper cute** web experiences ♡ <br>
 
